@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Install Ruby on Rails
-date: '2016-06-07 17:34:13 +0800'
+title: "Install Ruby on Rails"
+date: 2016-06-07 17:34:13 +0800
 categories: jekyll update
 ---
 
